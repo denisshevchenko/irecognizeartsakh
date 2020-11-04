@@ -16,7 +16,7 @@
 | France      | Vienne          | 20 October 2020   | [Link](https://en.armradio.am/2020/10/20/the-community-council-of-the-french-city-of-vienne-unanimously-adopted-a-resolution-recognizing-artsakh/) |
 | Czech Republic | Praha-Řeporyje District, Prague | 21 October 2020 | [Link](https://www.facebook.com/390439324348625/posts/3632427296816462/) |
 | Australia   | New South Wales | 22 October 2020   | [Link](https://www.facebook.com/ancaustralia/photos/a.176603202393861/3313290742058409/) |
-| US          | Fowler (CA)     | 22 October 2020   | [Link](https://www.facebook.com/ANCACentralCalifornia/photos/a.277498659047103/1960491190747833) |
+| USA         | Fowler (CA)     | 22 October 2020   | [Link](https://www.facebook.com/ANCACentralCalifornia/photos/a.277498659047103/1960491190747833) |
 | USA         | Fort Lee (NJ)   | 23 October 2020   | [Link](https://www.lragir.am/en/2020/10/23/76799) |
 | Guatemala   | Sayaxche        | 24 October 2020   | [Link](https://news.am/eng/news/609615.html) |
 | USA         | Glendale (CA)   | 27 October 2020   | [Link](https://www.glendaleca.gov/Home/Components/News/News/7683/10263) |
