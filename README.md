@@ -27,3 +27,5 @@
 | Italy       | Palermo         | 3 November 2020   | [Link](https://torontohye.ca/italian-city-of-palermo-recognizes-the-independence-of-artsakh/) |
 | Italy       | Lombardy        | 4 November 2020   | [Link](https://www.bignewsnetwork.com/news/266889207/italyaposs-lombardy-recognizes-nagorno-karabakh) |
 | Italy       | Carbognano      | 4 November 2020   | [Link](https://www.facebook.com/HayastaniDespanutyun/posts/3358605987569193) |
+
+![ItIsTimeToRecognizeArtsakh](https://raw.githubusercontent.com/denisshevchenko/irecognizeartsakh/main/social.message2.en.jpg)
