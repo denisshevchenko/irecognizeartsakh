@@ -28,5 +28,7 @@
 | Italy       | Lombardy        | 4 November 2020   | [Link](https://www.bignewsnetwork.com/news/266889207/italyaposs-lombardy-recognizes-nagorno-karabakh) |
 | Italy       | Carbognano      | 4 November 2020   | [Link](https://www.facebook.com/HayastaniDespanutyun/posts/3358605987569193) |
 | Canada      | Laval           | 5 November 2020   | [Link](https://anccanada.org/city-of-laval-unanimously-recognizes-the-independence-of-the-republic-of-artsakh/) |
+| Italy       | Drena             | 5 November 2020 | [Link](https://www.facebook.com/HayastaniDespanutyun/posts/3361145937315198) |
+| Italy       | Bleggio Superiore | 5 November 2020 | [Link](https://www.facebook.com/HayastaniDespanutyun/posts/3361145937315198) |
 
 ![ItIsTimeToRecognizeArtsakh](https://raw.githubusercontent.com/denisshevchenko/irecognizeartsakh/main/social.message2.en.jpg)
