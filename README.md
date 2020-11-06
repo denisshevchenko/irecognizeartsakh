@@ -15,7 +15,7 @@
 | Italy       | Milan           | 15 Oct 2020   | [Link](https://www.facebook.com/matteoforte.mi/posts/3542318619161270) |
 | France      | Limonest        | 18 Oct 2020   | [Link](https://www.facebook.com/mfankr/posts/3493983840658818) | 
 | France      | Vienne          | 20 Oct 2020   | [Link](https://en.armradio.am/2020/10/20/the-community-council-of-the-french-city-of-vienne-unanimously-adopted-a-resolution-recognizing-artsakh/) |
-| Czech Republic | Praha-Řeporyje District, Prague | 21 October 2020 | [Link](https://www.facebook.com/390439324348625/posts/3632427296816462/) |
+| Czech Republic | Praha-Řeporyje District, Prague | 21 Oct 2020 | [Link](https://www.facebook.com/390439324348625/posts/3632427296816462/) |
 | Australia   | New South Wales | 22 Oct 2020   | [Link](https://www.facebook.com/ancaustralia/photos/a.176603202393861/3313290742058409/) |
 | USA         | Fowler (CA)     | 22 Oct 2020   | [Link](https://www.facebook.com/ANCACentralCalifornia/photos/a.277498659047103/1960491190747833) |
 | USA         | Fort Lee (NJ)   | 23 Oct 2020   | [Link](https://www.lragir.am/en/2020/10/23/76799) |
