@@ -7,8 +7,8 @@
 | USA         | Maine           | Apr 2013        | [Link](http://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0987&item=1&snum=126&PID=) |
 | USA         | Louisiana       | May 2013          | [Link](https://legis.la.gov/legis/ViewDocument.aspx?d=853172) |
 | USA         | California      | 11 Sept 2014 | [Link](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140AJR32) |
-| USA         | Georgia         | 2 March 2016      | [Link](http://www.legis.ga.gov/Legislation/en-US/display/20152016/HR/1580) |
-| USA         | Hawaii          | 29 March 2016     | [Link](https://www.capitol.hawaii.gov/session2016/bills/HR167_.HTM) |
+| USA         | Georgia         | 2 Mar 2016      | [Link](http://www.legis.ga.gov/Legislation/en-US/display/20152016/HR/1580) |
+| USA         | Hawaii          | 29 Mar 2016     | [Link](https://www.capitol.hawaii.gov/session2016/bills/HR167_.HTM) |
 | USA         | Michigan        | 28 Sept 2017 | [Link](https://er.anca.org/press-release/michigan-salutes-artsakh-republics-independence/) |
 | Switzerland | Geneva          | 7 Oct 2020    | [Link](https://www.facebook.com/permalink.php?story_fbid=956617648193458&id=100015356952835) |
 | France      | Alfortville     | 9 Oct 2020    | [Link](https://en.armradio.am/2020/10/09/french-city-of-alfortville-votes-to-support-recognition-of-artsakh-by-france/) |
