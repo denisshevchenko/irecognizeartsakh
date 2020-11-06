@@ -10,6 +10,7 @@
 | USA         | Georgia         | 2 March 2016      | [Link](http://www.legis.ga.gov/Legislation/en-US/display/20152016/HR/1580) |
 | USA         | Hawaii          | 29 March 2016     | [Link](https://www.capitol.hawaii.gov/session2016/bills/HR167_.HTM) |
 | USA         | Michigan        | 28 September 2017 | [Link](https://er.anca.org/press-release/michigan-salutes-artsakh-republics-independence/) |
+| Switzerland | Geneva          | 7 October 2020    | [Link](https://www.facebook.com/permalink.php?story_fbid=956617648193458&id=100015356952835) |
 | France      | Alfortville     | 9 October 2020    | [Link](https://en.armradio.am/2020/10/09/french-city-of-alfortville-votes-to-support-recognition-of-artsakh-by-france/) |
 | Italy       | Milan           | 15 October 2020   | [Link](https://www.facebook.com/matteoforte.mi/posts/3542318619161270) |
 | France      | Limonest        | 18 October 2020   | [Link](https://www.facebook.com/mfankr/posts/3493983840658818) | 
