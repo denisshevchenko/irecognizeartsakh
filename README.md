@@ -21,7 +21,7 @@
 | USA         | Fort Lee (NJ)   | 23 Oct 2020   | [Link](https://www.lragir.am/en/2020/10/23/76799) |
 | Guatemala   | Sayaxche        | 24 Oct 2020   | [Link](https://news.am/eng/news/609615.html) |
 | USA         | Glendale (CA)   | 27 Oct 2020   | [Link](https://www.glendaleca.gov/Home/Components/News/News/7683/10263) |
-| Italy       | Cerchiara di Calabria | 28 October 2020  | [Link](https://www.facebook.com/unionetalenti/posts/2794608267451809) |
+| Italy       | Cerchiara di Calabria | 28 Oct 2020  | [Link](https://www.facebook.com/unionetalenti/posts/2794608267451809) |
 | Italy       | Asolo           | 29 Oct 2020   | [Link](http://www.armenews.com/spip.php?page=article&id_article=70918) |
 | Catalonia   | Amposta         | 30 Oct 2020   | [Link](https://horizonweekly.ca/en/catalan-city-of-amposta-recognizes-the-independence-of-artsakh/) |
 | USA         | New Jersey      | 31 Oct 2020   | [Link](https://www.facebook.com/ANCAEasternRegion/photos/a.161831278517885/386864112681266/?type=3) | 
