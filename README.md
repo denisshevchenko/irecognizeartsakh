@@ -33,5 +33,6 @@
 | Italy       | Bleggio Superiore | 5 Nov 2020 | [Link](https://www.facebook.com/HayastaniDespanutyun/posts/3361145937315198) |
 | Catalonia   | Berga             | 5 Nov 2020 | [Link](https://www.aquibergueda.cat/2020/11/05/lajuntament-de-berga-condemna-lagressio-militar-dazerbaidjan-a-la-republica-dartsakh-i-la-col%C2%B7laboracio-de-turquia/) | 
 | USA         | Englewood Cliffs (NJ) | 5 Nov 2020 | [Link](https://armenianweekly.com/2020/11/05/mayor-of-englewood-cliffs-new-jersey-recognizes-artsakh/) |
+| Uruguay     | Montevideo      | 12 November 2020 | [Link](https://en.armradio.am/2020/11/13/montevideo-recognizes-the-independence-of-artsakh/) |
 
 ![ItIsTimeToRecognizeArtsakh](https://raw.githubusercontent.com/denisshevchenko/irecognizeartsakh/main/social.message2.en.jpg)
