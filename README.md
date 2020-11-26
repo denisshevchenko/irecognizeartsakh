@@ -35,6 +35,6 @@
 | USA         | Englewood Cliffs (NJ) | 5 Nov 2020 | [Link](https://armenianweekly.com/2020/11/05/mayor-of-englewood-cliffs-new-jersey-recognizes-artsakh/) |
 | Uruguay     | Montevideo      | 12 Nov 2020  | [Link](https://en.armradio.am/2020/11/13/montevideo-recognizes-the-independence-of-artsakh/) |
 | USA         | Ridgefield (NJ) | 23 Nov 2020  | [Link](https://www.facebook.com/ANCAEasternRegion/photos/a.135691231131890/407883183912692/) |
-| Italia      | San Giorgio di Nogaro | 26 Nov 2020 | [Link](https://www.facebook.com/328015917294897/posts/3417025701727221/) |
+| Italy       | San Giorgio di Nogaro | 26 Nov 2020 | [Link](https://www.facebook.com/328015917294897/posts/3417025701727221/) |
 
 ![ItIsTimeToRecognizeArtsakh](https://raw.githubusercontent.com/denisshevchenko/irecognizeartsakh/main/social.message2.en.jpg)
